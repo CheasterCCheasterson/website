@@ -1,0 +1,1 @@
+This is an example website from Git tutorial : https://www.learnenough.com/git-tutorial/sharing
